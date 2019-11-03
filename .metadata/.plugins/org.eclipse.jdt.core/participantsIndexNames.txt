@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Users\Administrator\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2570840366.index
+\02_webHelloWorld\src\main\resources

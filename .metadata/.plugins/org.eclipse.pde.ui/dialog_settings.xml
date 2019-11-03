@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="pde_compiler_errorwarnings_block">
+		<item key="0" value="true"/>
+		<item key="1" value="false"/>
+		<item key="2" value="true"/>
+		<item key="3" value="true"/>
+		<item key="4" value="false"/>
+	</section>
+	<section name="org.eclipse.pde.ui.PLUGIN_STATUS_DIALOG">
+		<item key="DIALOG_X_ORIGIN" value="433"/>
+		<item key="DIALOG_Y_ORIGIN" value="124"/>
+		<item key="DIALOG_WIDTH" value="416"/>
+		<item key="DIALOG_HEIGHT" value="396"/>
+		<item key="DIALOG_FONT_NAME" value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI"/>
+	</section>
+</section>

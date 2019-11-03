@@ -1,0 +1,6 @@
+module jdbc_1 {
+	requires junit;
+	requires mysql.connector.java;
+	requires java.sql;
+
+}

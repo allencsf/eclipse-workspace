@@ -1,0 +1,5 @@
+module jdbc_1 {
+	requires jdk.jdi;
+	requires java.sql;
+	requires junit;
+}
